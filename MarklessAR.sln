@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarklessAR", "Assembly-CSharp.csproj", "{0CB541AF-42E4-D83A-6185-77AFF592EA58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarklessAR", "Assembly-CSharp-Editor.csproj", "{A8F763FB-0A2C-C965-04E1-D43932784515}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CB541AF-42E4-D83A-6185-77AFF592EA58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CB541AF-42E4-D83A-6185-77AFF592EA58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CB541AF-42E4-D83A-6185-77AFF592EA58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CB541AF-42E4-D83A-6185-77AFF592EA58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8F763FB-0A2C-C965-04E1-D43932784515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8F763FB-0A2C-C965-04E1-D43932784515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8F763FB-0A2C-C965-04E1-D43932784515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8F763FB-0A2C-C965-04E1-D43932784515}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
